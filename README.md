@@ -8,7 +8,7 @@ XHO is how you run many AI agents across different models and harnesses as one t
 - X: [@AdrianoTanz](https://x.com/AdrianoTanz)
 - LinkedIn: [adrianotanz](https://www.linkedin.com/in/adrianotanz)
 
-Based in Melbourne, Australia. Working on AI product and engineering.
+Working on AI product and engineering.
 
 
 
